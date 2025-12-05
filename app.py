@@ -1,4 +1,5 @@
-print("This is my first Git project")
+print("This is Kiel's first Git project")
+#Testing how git branching works
 name = input("Enter your first name: ")
 print("Welcome,", name)
 age = input("Enter your age: ")
