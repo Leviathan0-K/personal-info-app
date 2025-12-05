@@ -1,1 +1,5 @@
-name = input("Enter your first name: "); print("Welcome,", name) 
+print("This is my first Git project")
+name = input("Enter your first name: ")
+print("Welcome,", name)
+age = input("Enter your age: ")
+print(f"Hello {name}! Your are {age} years old.")
